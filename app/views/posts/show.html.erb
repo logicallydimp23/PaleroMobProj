@@ -11,8 +11,7 @@
     <br>
   <% @post.comments.each do |comment| %>
      <p>
-      <strong>User:</strong>
-      <%= comment.commenter %>
+      <strong><%= comment.commenter %></strong>
     </p>
     <p>
       <%= comment.body %><br>
@@ -38,10 +37,10 @@
     </p></center>
   <% end %>
   <% else %>
-    <center><%= link_to 'Login/Register to add new comments', new_user_session_path%>s
+    <center><%= link_to 'Login/Register to add new comments', new_user_session_path%>
     </center>
   <% end %>
   <br>
-  <center><%= link_to "Back to main page", posts_path%></center>
+  <%= link_to "Back", posts_path, class: "btn btn-primary btn-md" %>
 </div>
 </div>

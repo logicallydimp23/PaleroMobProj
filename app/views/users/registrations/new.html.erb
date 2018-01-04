@@ -1,7 +1,7 @@
 <div class ="back">
-<div class="col-sm-offset-4 col-sm-4 col-xs-12">
+<div class = "container">
+<div class="col-sm-offset-4 col-sm-4 col-md-1100">
   <h2>Sign up</h2>
-
   <%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: {multipart: :true, class: "form"}) do |f| %>
     <%= devise_error_messages! %>
 
@@ -23,9 +23,11 @@
       <%= f.password_field :password_confirmation, autocomplete: "off", class: "form-control" %>
     </div>
 
-    <%= f.submit "Sign up", class: "btn btn-primary btn-lg" %>
+    <%= f.submit "Sign up", class: "btn btn-primary btn-md" %>
   <% end %>
-
+  <br>
+  <%= link_to "Back",user_session_path, class: "btn btn-primary btn-md" %>
+<br>
+<br>
 </div>
 </div>
-<%= render "users/shared/links" %>
