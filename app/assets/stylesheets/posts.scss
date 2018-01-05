@@ -6,7 +6,7 @@ h1,
 h2 
 {
   text-align: center;
-  font-family: "Georgia", serif;
+  font-family: Georgia, Times, "Times New Roman", serif;
   font-style: italic;
   font-weight: bold;
 }
@@ -18,16 +18,15 @@ nav navbar-nav navbar-right
 
 .main
 {
-    font-family: "Georgia", Times, serif;
-  	text-align: center;
-	 background-image: url('oldpaper.jpg'); 
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    font-style: italic;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-left: 80px;
-    padding-bottom: 50px;
+  font-family: Georgia, Times, "Times New Roman", serif;  text-align: center;
+	background-image: url('oldpaper.jpg'); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-style: italic;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-left: 80px;
+  padding-bottom: 50px;
 
 
 }
@@ -36,8 +35,7 @@ nav navbar-nav navbar-right
 {
 	background-image: url('oldpaper.jpg'); 
   background-size: 100% 100%;
-	font-family: "Georgia",Times, serif;
-  font-style: italic;
+  font-family: Georgia, Times, "Times New Roman", serif; font-style: italic;
   padding-top: 50px;
   padding-right: 30px;
   padding-left: 80px;
@@ -45,11 +43,11 @@ nav navbar-nav navbar-right
   text-align: center;
 }
 
-.navback
+
+li
 {
-		background-image: url('navbarpic.png'); 
-		background-size: 100% 100%;
-}
+  color: white;
+  font-family: Georgia, Times, "Times New Roman", serif;}
 
 .open 
 {
