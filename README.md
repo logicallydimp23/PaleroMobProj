@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+AYYYYYY 
 
-Things you may want to cover:
+Rails -v   
 
-* Ruby version
+Rails 5.2.0.beta2
 
-* System dependencies
+Ruby -v
 
-* Configuration
+ruby 2.3.5p376 (2017-09-14 revision 59905) [x86_64-linux-gnu]
 
-* Database creation
+OS: 
 
-* Database initialization
+Bash on Ubuntu on Windows
 
-* How to run the test suite
+DB:
 
-* Services (job queues, cache servers, search engines, etc.)
+Sqlite
 
-* Deployment instructions
-
-* ...
+See Gemfile for dependecies
+First Rails App 
+Hello Blog
