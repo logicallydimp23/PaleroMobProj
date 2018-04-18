@@ -28,12 +28,13 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass', '~> 3.3'
-gem 'ckeditor', '~> 4.1'
 gem 'devise'
 gem 'paperclip'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'attach'
+gem "ckeditor", :git => "https://github.com/galetahub/ckeditor.git"
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 gem 'webpacker', git: 'https://github.com/rails/webpacker.git' 
@@ -41,7 +42,7 @@ gem 'webpacker', git: 'https://github.com/rails/webpacker.git'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', require: false
+gem 'bootsnap', require: true
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -59,6 +60,7 @@ group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+  gem 'guard-livereload', '~> 2.5', require: false
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 

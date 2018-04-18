@@ -1,0 +1,2 @@
+class Retard < ApplicationRecord
+end

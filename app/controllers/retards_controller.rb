@@ -1,0 +1,2 @@
+class RetardsController < ApplicationController
+end
