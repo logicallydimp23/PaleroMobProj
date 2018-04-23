@@ -1,8 +1,8 @@
-#Ruby on Rails
+# Ruby on Rails
 
 This is the sample application for Ruby on Rails: Mobile Programming Project with Rails by John Steve Palero.
 
-#Installation
+# Installation
 
 cd /folder
 git clone https://github.com/logicallydimp23/PaleroMobProj.git
@@ -19,26 +19,26 @@ ruby 2.3.5p376 (2017-09-14 revision 59905) [x86_64-linux-gnu]
 bundle install
 bundle execute rake db:migrate
 
-#OS: 
+# OS: 
 
 Bash on Ubuntu on Windows
 
-#DB:
+# DB:
 
 Sqlite
 
-#Dependencies
+# Dependencies
 
 See Gemfile for dependecies
 First Rails App 
 Hello Blog
 
-#Features
+# Features
 
 User Authentication (Login/Register/Logout)
 User create post
 User comments
 
-#Note
+# Note
 
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then happy coding. :)
