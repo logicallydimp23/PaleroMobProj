@@ -5,6 +5,7 @@ This is the sample application for Ruby on Rails: Mobile Programming Project wit
 # Installation
 
 cd /folder
+
 git clone https://github.com/logicallydimp23/PaleroMobProj.git
 
 Rails -v   
@@ -17,6 +18,7 @@ ruby 2.3.5p376 (2017-09-14 revision 59905) [x86_64-linux-gnu]
 
 
 bundle install
+
 bundle execute rake db:migrate
 
 # OS: 
