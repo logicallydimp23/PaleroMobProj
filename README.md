@@ -28,14 +28,17 @@ Bash on Ubuntu on Windows
 Sqlite
 
 #Dependencies
+
 See Gemfile for dependecies
 First Rails App 
 Hello Blog
 
 #Features
+
 User Authentication (Login/Register/Logout)
 User create post
 User comments
 
 #Note
+
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then happy coding. :)
