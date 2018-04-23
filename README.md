@@ -46,3 +46,59 @@ User comments
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then happy coding. :)
 
 .......................................................................................................................
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ╭––––––––––––––––––––––╮
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        General Info
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ╰––––––––––––––––––––––╯ 
+⠀⠀⠀⠀⠀⠀⠀⠀ My name is Steve. I like to code and also coffee. Welcome to my Steam profile.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ I will consider streaming if I'll have enough money to buy a gaming pc.
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╭–––––––––––––––––––––––––––––––––––––––––╮
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ YouTube ⠀•⠀Twitch⠀•⠀ Steam ⠀•⠀Instagram
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╰–––––––––––––––––––––––––––––––––––––––––╯
+
+
+　　　　　　　╭——————————————————————————————╮
+　　　　　　　　　██████　　Now Playing: I'm sad by eli.
+　　　　　　　　　██   ►  ██
+　　　　　　　　　██████　　1:25　▬▬▬▬◯▬▬▬▬▬▬▬▬▬▬▬▬▬
+　　　　　　　╰——————————————————————————————╯
+　　　　　　　　　　　　　╭———————————————————╮
+　　　　　　　　　　　　　　　Playlist:
+　　　　　　　　　　　　　　　　1. Bobby Tarantino II by Logic
+　　　　　　　　　　　　　　　　2. Guardians of the Galaxy vol.1
+　　　　　　　　　　　　　　　　3. Guardians of the Galaxy vol.2
+　　　　　　　　　　　　　　　　4. Life is Strange OST
+　　　　　　　　　　　　　　　　5.Blurryface by Twenty One Pilots
+　　　　　　　　　　　　　╰———————————————————╯
+　　　　　　　　　　　　　╭———————————————————╮
+　　　　　　　　　　　　　　　Favorite Genres:
+　　　　　　　　　　　　　　　　1. Lofi
+　　　　　　　　　　　　　　　　2. HipHop
+　　　　　　　　　　　　　　　　3. Classics
+　　　　　　　　　　　　　　　　4. Indie
+　　　　　　　　　　　　　　　　5. Rock
+　　　　　　　　　　　　　╰———————————————————╯
+　　　　　　　　　　　　　　　　　　　　♩　　　♫　　　♪
+　
+
+
+
+   —⠀ ғ ʀ ɪ ᴇ ɴ ᴅ⠀⠀ɪ ɴ ᴠ ɪ ᴛ ᴇ s ⠀—
+⠀
+⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╱╲
+⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     Please accompany friend invites with a comment.
+⠀⠀⠀⠀⠀⠀⠀⠀ ╳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ᴠɪsɪᴛ ᴍʏ ғᴀǫ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ╳
+⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ╲╱
+⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      —⠀⠀ᴏ ᴛ ʜ ᴇ ʀ⠀⠀ᴛ ʜ ɪ ɴ ɢ s⠀⠀—
+⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ╱╲
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀ Discord Server [discord.gg] 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀ Soundcloud [soundcloud.com] 
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ╲╱
