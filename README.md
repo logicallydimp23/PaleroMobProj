@@ -1,8 +1,9 @@
-##Ruby on Rails
+#Ruby on Rails
 
 This is the sample application for Ruby on Rails: Mobile Programming Project with Rails by John Steve Palero.
 
 #Installation
+
 cd /folder
 git clone https://github.com/logicallydimp23/PaleroMobProj.git
 
